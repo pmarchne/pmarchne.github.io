@@ -1,77 +1,176 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Philippe Marchner",
+    "label": "Research Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "philippe.marchner@siemens.com",
+    "phone": "",
+    "citizenship": "French, Swedish",
+    "url": "",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "107 Avenue de la République",
+      "postalCode": "92320",
+      "city": "Châtillon",
+      "countryCode": "FR",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Siemens Digital Industry Software",
+      "position": "Research Engineer",
+      "startDate": "2022-03-01",
+      "endDate": "",
+      "summary": "Investigation and development of numerical methods for time-harmonic wave problems",
       "highlights": [
-        "Relativity"
+        "Simcenter StarCCM+, finite element framework",
+        "domain decomposition, perfectly matched layers"
+      ]
+    },
+    {
+      "name": "European Space and Technology Center - ESA ESTEC",
+      "position": "Trainee",
+      "startDate": "2018-03-01",
+      "endDate": "2018-09-01",
+      "summary": "Noise reduction in metamaterial structures: application to the Vega launch pad",
+      "highlights": [
+        "resolution of Helmholtz problems in periodic media"
+      ]
+    },
+    {
+      "name": "Onera and Matelys",
+      "position": "Research intern",
+      "summary": "Acoustic nonlinear behavior of micro-perforated plates using Lattice Boltzmann Method",
+      "startDate": "2017-03-01",
+      "endDate": "2017-08-01",
+      "highlights": [
+        "sound propagation in porous media, numerical simulation and experimental measurements"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of Lorraine & University of Liège, France & Belgium",
+      "url": "https://www.theses.fr/2022LORR0094",
+      "area": "Applied Mathematics",
+      "studyType": "Doctorate degree",
+      "startDate": "2019-03-01",
+      "endDate": "2022-03-01",
       "score": "",
+      "summary": "Industrial PhD contract (CIFRE) with joint supervision from the Universities of Lorraine & Liège",
       "courses": [
-        "Theory of Relativity"
+        "topic: Non-reflecting boundary conditions and domain decomposition methods for industrial flow acoustics",
+        "joint development of GmshDDM, a high-performance parallel domain decomposition library"
       ]
-    }
-  ],
-  "awards": [
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "University Paris-Saclay, Palaiseau, France",
+      "url": "https://uma.ensta-paris.fr/modsim/",
+      "area": "Applied Mathematics",
+      "studyType": "Master's degree",
+      "startDate": "2017-09-01",
+      "endDate": "2018-07-01",
+      "score": "",
+      "summary": "One year applied mathematics specialization",
+      "courses": [
+        "uncertainty quantification, optimization, integral equations, multi-scale modeling, functional analysis, parallel computing"
+      ]
+    },
+    {
+      "institution": "University de Technologie de Compiègne, Compiègne, France",
+      "url": "https://www.utc.fr/en/courses-and-training/the-utc-engineering-diploma/mechanical-engineering-im/specialty-sound-and-vibration-engineering-avi/",
+      "area": "Mechanical Engineering",
+      "studyType": "Master's degree",
+      "startDate": "2014-09-01",
+      "endDate": "2017-07-01",
+      "score": "",
+      "summary": "French Engineering degree (MSc) with a specialization in acoustics and vibrations. Exchange semester at Technische Universität Berlin, Germany",
+      "courses": [
+        "fundamentals of acoustics, signal processing, fluid & gas mechanics, linear and nonlinear vibrations, numerical methods"
+      ]
     }
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Intermediate",
+      "keywords": [
+        "C++,", " Python,", " MPI,", " Matlab"
+      ]
+    },
+    {
+      "name": "Software",
+      "level": "Intermediate",
+      "keywords": [
+        "Gmsh,", " Paraview,", " FEniCS,", " bempp,", " MUMPS,", " PETSc"
+    ] 
+    },
+    {
+      "name": "Computer tools",
+      "level": "Intermediate",
+      "keywords": [
+        "git,", " Jupyter,", " Latex,", " slurm"
+    ] 
+    },
+    {
+      "name": "Commercial software",
+      "level": "Intermediate",
+      "keywords": [
+        "StarCCM+,", " ProLB"
+    ] 
+    }
+  ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker"
     },
     {
-      "language": "English",
+      "language": "Swedish",
       "fluency": "Fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Working proficiency"
+    },
+    {
+      "language": "German",
+      "fluency": "Good knowledge"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Conversational"
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": ["Cyclotourism, climbing, hiking"]
+    },
+    {
+      "name": "Travels",
+      "keywords": ["Several leisure in south america (2018, 2019, 2022)"]
+    }
+  ],
   "references": [],
-  "projects": []
+  "projects": [],
+  "awards": [
+    {
+      "title": "Finalist of the 2023 Maths-Industry PhD prize",
+      "url": "https://www.agence-maths-entreprises.fr/public/pages/activities/prix-de-these/prix2these-2023.html",
+      "date": "2023-10",
+      "awarder": "AMIES - Agence pour les Mathématiques en Interaction avec l'Entreprise et la Société"
+    }
+  ]
 }
