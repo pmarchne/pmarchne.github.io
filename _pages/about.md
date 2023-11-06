@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <em>Research Engineer, Siemens Digital Industry Software
 
@@ -26,7 +26,7 @@ I hold a degree in Mechanical engineering and a Master of Science in applied mat
 
 <br/><br/>
 
-### keywords
+### Keywords
 - Wave propagation
 - Discretization methods for PDEs
 - Parallel computing
