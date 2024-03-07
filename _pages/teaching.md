@@ -14,7 +14,7 @@ I teach two courses in the [Master of Mathematics](https://www.uni.lu/fstm-en/st
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="Anum" class="card-title"><b>Numerical Analysis</b> - 35h</h5>
+        <h5 id="Anum" class="card-title"><b>Numerical Analysis</b> </h5>
         <h6 class="card-subtitle font-italic">Winter 2022, Winter 2023</h6>
       </div>
     </div>
@@ -77,7 +77,7 @@ I teach two courses in the [Master of Mathematics](https://www.uni.lu/fstm-en/st
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="Anum" class="card-title"><b>Numerical Solutions to PDEs</b> - 35h</h5>
+        <h5 id="Anum" class="card-title"><b>Numerical Solutions to PDEs</b> </h5>
         <h6 class="card-subtitle font-italic">Spring 2023</h6>
       </div>
     </div>
