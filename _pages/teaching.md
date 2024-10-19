@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-I teach two courses in the [Master of Mathematics](https://www.uni.lu/fstm-en/study-programs/master-in-mathematics-mathematical-modelling-and-computational-sciences/) program at the University of Luxembourg, aimed to first year Master students.
+I taught two courses in the [Master of Mathematics](https://www.uni.lu/fstm-en/study-programs/master-in-mathematics-mathematical-modelling-and-computational-sciences/) program at the University of Luxembourg, aimed to first year Master students.
 
 <!-- Numerical analysis -->
 <div class="card mt-3">
@@ -77,7 +77,7 @@ I teach two courses in the [Master of Mathematics](https://www.uni.lu/fstm-en/st
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="Anum" class="card-title"><b>Numerical Solutions to PDEs</b> </h5>
+        <h5 id="Anum" class="card-title"><b>Numerical Solutions of PDEs</b> </h5>
         <h6 class="card-subtitle font-italic">Spring 2023</h6>
       </div>
     </div>
@@ -99,7 +99,7 @@ I teach two courses in the [Master of Mathematics](https://www.uni.lu/fstm-en/st
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            3. Sobolev spaces, nottion of weak solution
+            3. Sobolev spaces, notion of weak solution
           </div>
         </div>
       </li>
