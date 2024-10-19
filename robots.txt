@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pmarchne.github.io/sitemap.xml
+Sitemap: https://marchner.fr/sitemap.xml
