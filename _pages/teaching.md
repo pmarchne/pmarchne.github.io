@@ -22,42 +22,42 @@ I taught two courses in the [Master of Mathematics](https://www.uni.lu/fstm-en/s
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            1. Notion of error, floating-point arithmetic
+            1. Notion of error, floating-point arithmetic <a href="{{ '/assets/pdf/Teaching/0_Floating_point_number.pdf' | relative_url }}" target="_blank">[Slides]</a>
           </div>
         </div>
       </li>
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            2. Polynomial interpolation and approximation, least-squares problems
+            2. Polynomial interpolation and approximation, least-squares <a href="{{ '/assets/pdf/Teaching/1_Interpolation_approximation.pdf' | relative_url }}" target="_blank">[Slides]</a>
           </div>
         </div>
       </li>
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            3. Numerical differentiation and integration
+            3. Numerical differentiation and integration <a href="{{ '/assets/pdf/Teaching/2_Derivation_and_integration.pdf' | relative_url }}" target="_blank">[Slides]</a>
           </div>
         </div>
       </li>
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            4. Numerical methods for ordinary differential equations
+            4. Numerical methods for ordinary differential equations <a href="{{ '/assets/pdf/Teaching/3_ODEs.pdf' | relative_url }}" target="_blank">[Slides]</a>
           </div>
         </div>
       </li>
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            5. Solving linear systems: direct and iterative methods
+            5. Solving linear systems: direct and iterative methods <a href="{{ '/assets/pdf/Teaching/4_Linear_Systems.pdf' | relative_url }}" target="_blank">[Slides]</a>
           </div>
         </div>
       </li>
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            6. Root-finding methods, nonlinear equations
+            6. Root-finding methods, nonlinear equations <a href="{{ '/assets/pdf/Teaching/5_Root_finding.pdf' | relative_url }}" target="_blank">[Slides]</a>
           </div>
         </div>
       </li>
