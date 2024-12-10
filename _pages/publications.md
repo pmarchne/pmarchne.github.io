@@ -16,6 +16,7 @@ nav_order: 1
 <h2> Journal Articles </h2>
 
 {% bibliography -q @article %}
+{% bibliography -q @articlesec %}
 
 <h2> PhD Thesis </h2>
 
