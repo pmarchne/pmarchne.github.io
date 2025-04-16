@@ -9,10 +9,6 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<h2> Preprints </h2>
-
-{% bibliography -q @unpublished %}
-
 <h2> Journal Articles </h2>
 
 {% bibliography -q @article %}
