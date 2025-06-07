@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my webpage ! I am a postdoctoral researcher within the <a href="https://seiscope2.osug.fr/?lang=en" target="_blank">Seiscope</a> project at Université Grenoble Alpes. 
+Welcome to my webpage ! I am a postdoctoral researcher within the <a href="https://seiscope2.osug.fr/?lang=en" target="_blank">Seiscope</a> consortium at Université Grenoble Alpes, working on uncertainty quantification and Bayesian inference for full waveform inversion. 
 Before that I worked as a research engineer at Siemens Digital Industries Software, where I developed numerical methods for the <a href="https://plm.sw.siemens.com/en-US/simcenter/fluids-thermal-simulation/star-ccm/" target="_blank">Simcenter STAR-CCM+</a> simulation software. 
 I have a general interest in applied mathematics and scientific computing, with a focus on applications.
 
@@ -27,10 +27,12 @@ I hold an engineer degree in Mechanical Engineering and a Master of Science in A
 
 <br/><br/>
 
-### Keywords
+### keywords
 - Wave propagation
 - Discretization methods for PDEs
 - Parallel computing
 - Non-reflecting boundary conditions 
   - Absorbing boundary conditions
   - Perfectly matched layers
+- Seismic imaging
+- Probabilistic inverse problems
