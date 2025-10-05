@@ -7,6 +7,11 @@ nav: true
 nav_order: 3
 ---
 
+#### Academic year 2025-2026
+I am involved in teaching the class [Outils Mathématiques pour les sciences et l’ingénierie I](https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/licence-XA/licence-sciences-de-la-terre-IAGUJ360/parcours-sciences-de-la-terre-et-de-l-environnement-IAGULDFQ/ue-mathematiques-outils-pour-les-sciences-et-l-ingenieurie-1-mat102-IGI2F7YR.html) at Université Grenoble Alpes, aimed to first year University students.
+
+
+#### Academic years 2022-2023, 2023-2024
 I taught two courses in the [Master of Mathematics](https://www.uni.lu/fstm-en/study-programs/master-in-mathematics-mathematical-modelling-and-computational-sciences/) program at the University of Luxembourg, aimed to first year Master students.
 
 <!-- Numerical analysis -->
