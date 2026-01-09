@@ -14,13 +14,13 @@ nav_order: 1
 {% bibliography -q @article %}
 {% bibliography -q @articlesec %}
 
+<h2> Conferences and proceedings </h2>
+
+{% bibliography -q @inproceedings %}
+
 <h2> PhD Thesis </h2>
 
 {% bibliography -q @phdthesis %}
-
-<h2> Conferences </h2>
-
-{% bibliography -q @inproceedings %}
 
 <h2> Master Theses </h2>
 
